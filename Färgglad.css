@@ -1,0 +1,31 @@
+table,th,td{
+    border:2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    margin: auto;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.black{
+    background-color: black;
+}
+.green{
+    background-color: green;
+}
+caption{
+    caption-side: bottom;
+    font-family:"arial";
+    font-size: 20px;
+    padding: 40px;
+}
+td{
+    height:80px;
+    width: 150px; 
+}
